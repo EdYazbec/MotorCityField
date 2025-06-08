@@ -8,6 +8,8 @@ The goal of this design is to create an adaptable, easy-to-manufacture, and reas
 
 The Motor City Field was designed, built, and run by the Motor City Alliance, led by FRC Team 5577, The Kinematic Wolves.
 
+![Motor City Field](Motor%20City%20Field.PNG)
+
 ## Limitations
 
 Because the official FRC field changes every year, only the evergreen field elements are included in this design. These elements must be adapted with season-specific team field elements to produce a representative field for the current game.
